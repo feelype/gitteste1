@@ -1,0 +1,4 @@
+[submodule "PHPloy"]
+	path = PHPloy
+	url = https://github.com/banago/PHPloy.git
+	branch = master
